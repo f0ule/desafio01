@@ -23,5 +23,18 @@ img{
     position: absolute;
     height: 500px;
     left: 250px;
-    top: 0px;
+    top: 40px;
+    size: 500px;
 }
+
+ul{
+    position: relative;
+    left: 220px;
+    top: 230px;
+    font-size: 35px;
+    color: darkred;
+    list-style-type:decimal-leading-zero;
+    
+
+}
+
